@@ -1,1 +1,6 @@
 C:\Users\Luca Valendino\Desktop\PrimoRepo\primo_repo_test\Primo_repo_test\Primo_repo_test\bin\Debug\Primo_repo_test.exe.config
+C:\Users\Luca Valendino\Desktop\PrimoRepo\primo_repo_test\Primo_repo_test\Primo_repo_test\bin\Debug\Primo_repo_test.exe
+C:\Users\Luca Valendino\Desktop\PrimoRepo\primo_repo_test\Primo_repo_test\Primo_repo_test\bin\Debug\Primo_repo_test.pdb
+C:\Users\Luca Valendino\Desktop\PrimoRepo\primo_repo_test\Primo_repo_test\Primo_repo_test\obj\Debug\Primo_repo_test.csprojResolveAssemblyReference.cache
+C:\Users\Luca Valendino\Desktop\PrimoRepo\primo_repo_test\Primo_repo_test\Primo_repo_test\obj\Debug\Primo_repo_test.exe
+C:\Users\Luca Valendino\Desktop\PrimoRepo\primo_repo_test\Primo_repo_test\Primo_repo_test\obj\Debug\Primo_repo_test.pdb
