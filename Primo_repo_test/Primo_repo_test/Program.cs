@@ -10,7 +10,7 @@ namespace Primo_repo_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ciao mondo editato da qualcuno!");
+            Console.WriteLine("Ciao mondo editato da altre persone!");
             Console.ReadLine();
         }
     }
